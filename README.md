@@ -10,9 +10,9 @@ The field of computer vision is revolutionizing the way machines interact with t
 This project is divided into several phases, each designed to deepen your understanding and skills in computer vision:
 
 1. **Dataset Selection**: Choose one of the provided datasets for image classification. Each dataset has unique characteristics and challenges:
-   - Dataset A: [Description of Dataset A]
-   - Dataset B: [Description of Dataset B]
-   - Dataset C: [Description of Dataset C]
+   - [Recycling](https://drive.google.com/file/d/1WhDq3xo2T-a8BAbx0ByoF8K1zvrHE5f2/view?usp=sharing): The dataset consists of images for machine learning classification, divided into two categories: recyclable and household waste. It aims to facilitate the development of models that can automate the sorting of these waste types, enhancing recycling processes.
+   - [Bone Fractures](https://drive.google.com/file/d/1WeuxOenviI1_ElW5ISED4MhvR_YFYdmB/view?usp=drive_link): The dataset includes multi-region X-ray images focused on diagnosing bone fractures.
+   - [Parking Lot Detection](https://drive.google.com/file/d/1Wehry7yNRMY5PELWkY6ysW_oQP44Xvzf/view?usp=sharing): The dataset is designed for developing and testing parking lot vehicle detection algorithms.
    
 2. **Exploratory Data Analysis (EDA)**: Analyze the dataset to understand its structure, features, and the challenges it presents. Document your findings and initial thoughts on how to approach the classification problem.
 
@@ -25,9 +25,10 @@ This project is divided into several phases, each designed to deepen your unders
    - Validate your model using appropriate metrics (accuracy, precision, recall, F1-score, etc.).
    - Discuss the performance of your model and any potential biases or limitations.
 
-5. **Deployment (Optional)**:
+5. **Deployment (Optional choices)**:
    - Deploy your model as a simple web application or a script that can take an image input and output a classification.
    - You can use streamlit + Flask for this, for example
+   - Run your model on SageMaker
 
 ## Resources
 
